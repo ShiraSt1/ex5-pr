@@ -8,3 +8,5 @@ const c=10
 const b=()=>{
     alert("b")
 }
+
+const d=7
