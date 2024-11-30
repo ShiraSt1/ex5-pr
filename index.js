@@ -5,3 +5,7 @@ const a=()=>{
 const b=()=>{
     alert("b")
 }
+
+const c=()=>{
+    alert("c")
+}
